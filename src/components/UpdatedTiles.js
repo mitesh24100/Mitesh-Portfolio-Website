@@ -1,7 +1,5 @@
 import React from 'react'
 import '../Styles/UpdatedTiles.css'
-import { hex } from '../assets/hex-figma.svg'
-import { hex_hover } from '../assets/hex-figma-hover.svg'
 import { Link } from 'react-scroll'
 
 function UpdatedTiles() {

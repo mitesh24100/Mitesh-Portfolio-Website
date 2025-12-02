@@ -5,7 +5,6 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
 import '../Styles/Navbar.css';
 import { Link } from 'react-scroll';
-import WidgetsIcon from '@mui/icons-material/Widgets';
 
 function Navbar() {
     return (
@@ -38,7 +37,7 @@ function Navbar() {
                         Experience
                     </div>
                 </Link>
-                <a href="/Mitesh-SE-Resume.pdf" download="Mitesh_SE_Resume.pdf" className='a-resume link-navbar'>
+                <a href="./Mitesh-SE-Resume.pdf" download="Mitesh_SE_Resume.pdf" className='a-resume link-navbar'>
                     <div className='section-links'>
                         Resume
                     </div>

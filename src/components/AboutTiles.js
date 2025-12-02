@@ -1,9 +1,6 @@
 import React, { useEffect } from "react";
 import "../Styles/About_Tiles.css";
 import LC from "../assets/LC_cnt.jpeg";
-import MERN from "../assets/MERN.png";
-import AWS from "../assets/AWS.png";
-import Next from "../assets/Next.png";
 import tech from "../assets/teck.png";
 import CloseIcon from "@mui/icons-material/Close";
 

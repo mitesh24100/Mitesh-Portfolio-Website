@@ -1,12 +1,8 @@
 import React, { useEffect, useState } from "react";
 import LandImg from "../assets/SF_Pic.jpg";
-import blurred_bg from "../assets/blurred-bg.webp";
 import "../Styles/LandingPage.css";
-import { Element } from "react-scroll";
 import AboutTiles from "./AboutTiles";
 import Terminal from "./Terminal";
-import TerminalIcon from "@mui/icons-material/Terminal";
-import ViewQuiltIcon from "@mui/icons-material/ViewQuilt";
 
 function LandingPage() {
   const [buttonVisible, setButtonVisible] = useState(true);

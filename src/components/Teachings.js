@@ -1,8 +1,6 @@
 import React from 'react'
-import CastForEducationIcon from '@mui/icons-material/CastForEducation';
 import '../Styles/Teachings.css';
-import NCSU from '../assets/NCSU.png'
-import DA from '../assets/DA.jpg'
+import NCSU from '../assets/NCSU.png';
 import LocalLibraryIcon from '@mui/icons-material/LocalLibrary';
 
 function Teachings() {

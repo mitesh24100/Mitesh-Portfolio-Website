@@ -3,18 +3,12 @@ import '../Styles/Experience.css'
 import synaptics_bg from '../assets/CG.png'
 import iSimcha_Health_Logo from '../assets/iSimcha_Health_Logo.jpeg'
 import AWS_Bedrock_Dark from '../assets/AWS_Bedrock_Dark.png'
-import IPR_bg from '../assets/IPR.jpg'
-import IIT_B_bg from '../assets/IIT_B.jpg'
-import Comp_Fin_bg from '../assets/Comp_Fin.jpg'
 import LMS_bg from '../assets/LMS.png'
 import GO_bg from '../assets/FS.jpeg'
 import WorkHistoryIcon from '@mui/icons-material/WorkHistory';
 import Modal_Synaptics from './Modal_Synaptics';
 import Modal_HuddleUp from './Modal_HuddleUp';
 import Modal_iS from './Modal_iS';
-import Modal_DA from './Modal_DA';
-import Modal_IIT from './Modal_IIT';
-import Modal_IPR from './Modal_IPR';
 import $ from 'jquery';
 import { Power3 } from 'gsap'
 import Modal_QBurst from './Modal_QBurst'

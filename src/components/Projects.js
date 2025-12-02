@@ -1,13 +1,10 @@
 import React from 'react'
 import '../Styles/Projects.css'
-import cuisine from '../assets/cuisine.jpg';
 import AutoStoriesIcon from '@mui/icons-material/AutoStories';
 import AccountTreeIcon from '@mui/icons-material/AccountTree';
-import RamenDiningIcon from '@mui/icons-material/RamenDining';
 import WorkIcon from '@mui/icons-material/Work';
 import ChatIcon from '@mui/icons-material/Chat';
 import SummarizeIcon from '@mui/icons-material/Summarize';
-import { colors } from '@mui/material';
 
 function Projects() {
     return (
