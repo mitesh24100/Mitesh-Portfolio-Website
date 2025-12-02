@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Mitesh-Portfolio-Website/static/css/main.a4c9b44f.css",
+    "main.js": "/Mitesh-Portfolio-Website/static/js/main.3154249c.js",
+    "static/js/453.ace21015.chunk.js": "/Mitesh-Portfolio-Website/static/js/453.ace21015.chunk.js",
+    "static/media/FS.jpeg": "/Mitesh-Portfolio-Website/static/media/FS.e903898d1ff05ef955b7.jpeg",
+    "static/media/AWS_Bedrock_Dark.png": "/Mitesh-Portfolio-Website/static/media/AWS_Bedrock_Dark.dfa0c895fc7db35aff2d.png",
+    "static/media/icon-nav.jpg": "/Mitesh-Portfolio-Website/static/media/icon-nav.f0e8ba9c18dad3457238.jpg",
+    "static/media/LMS.png": "/Mitesh-Portfolio-Website/static/media/LMS.8656ba7d90e90e5cf266.png",
+    "static/media/SF_Pic.jpg": "/Mitesh-Portfolio-Website/static/media/SF_Pic.9ced1f3dcce1ad81fc74.jpg",
+    "static/media/teck.png": "/Mitesh-Portfolio-Website/static/media/teck.952cf75b9caa4ee09656.png",
+    "static/media/iSimcha_Health_Logo.jpeg": "/Mitesh-Portfolio-Website/static/media/iSimcha_Health_Logo.2d928688bfa48ecb7e17.jpeg",
+    "static/media/CG.png": "/Mitesh-Portfolio-Website/static/media/CG.e6c9974ad19b63b2ed02.png",
+    "static/media/LC_cnt.jpeg": "/Mitesh-Portfolio-Website/static/media/LC_cnt.8809b7333e895429f2b5.jpeg",
+    "static/media/NCSU.png": "/Mitesh-Portfolio-Website/static/media/NCSU.de31a3a9e90ef99a5af8.png",
+    "index.html": "/Mitesh-Portfolio-Website/index.html",
+    "static/media/hex-figma.svg": "/Mitesh-Portfolio-Website/static/media/hex-figma.4670b79fc42ec6854f3b.svg",
+    "static/media/hex-figma-hover.svg": "/Mitesh-Portfolio-Website/static/media/hex-figma-hover.e5e297dab929e2db811a.svg",
+    "main.a4c9b44f.css.map": "/Mitesh-Portfolio-Website/static/css/main.a4c9b44f.css.map",
+    "main.3154249c.js.map": "/Mitesh-Portfolio-Website/static/js/main.3154249c.js.map",
+    "453.ace21015.chunk.js.map": "/Mitesh-Portfolio-Website/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c9b44f.css",
+    "static/js/main.3154249c.js"
+  ]
+}
