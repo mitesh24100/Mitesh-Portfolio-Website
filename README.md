@@ -1,6 +1,6 @@
 # This repository contains the codebase for my terminal-embedded portfolio website
 
-Check out the website at [dhruvilbhatt.com](https://www.dhruvilbhatt.com/).
+Check out the website [Here](https://mitesh24100.github.io/Mitesh-Portfolio-Website/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
